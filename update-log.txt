@@ -1,3 +1,13 @@
 6/18/24
 Created github repo
 Got instructions from chat GPT
+
+Created Adding-files branch
+Added chat gpt instruction file
+Added scores csv file
+Added main.py
+Got game working
+
+
+6/19/24
+Added logic to say "higher" or "lower" appropriately
